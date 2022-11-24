@@ -1,0 +1,25 @@
+.user {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+}
+
+#input {
+  margin-left: 10px;
+}
+
+.pass {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+}
+
+.forgot {
+  color: blue;
+}
+
+.login {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
