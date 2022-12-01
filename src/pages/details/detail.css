@@ -1,0 +1,47 @@
+h3,
+h1 {
+  font-style: italic;
+  font-family: script;
+  color: rgb(79, 98, 173);
+  justify-content: center;
+  display: flex;
+}
+header {
+  size: 77pxs;
+  font-style: oblique;
+  font-family: cursive;
+  justify-content: center;
+  display: flex;
+}
+#download {
+  background: rgb(54, 188, 215);
+
+  border-radius: 10px;
+  justify-content: center;
+  padding: 5px;
+  display: flex;
+}
+img {
+  border: 1px;
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+  margin-left: 120px;
+}
+#me {
+  padding: 20px;
+}
+#container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+a:hover {
+  color: var(white);
+}
+
+#lk {
+  justify-content: center;
+  display: flex;
+  font-size: 25px;
+}

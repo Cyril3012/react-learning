@@ -1,0 +1,33 @@
+.password,
+.log {
+  justify-content: center;
+  display: flex;
+  padding-bottom: 5px;
+}
+.email {
+  justify-content: center;
+  display: flex;
+  padding-bottom: 5px;
+}
+.signup {
+  justify-content: center;
+  display: flex;
+  padding-bottom: 8px;
+  margin-top: 8px;
+}
+.signupContainer {
+  background: azure;
+  padding: 20px 70px;
+
+  border-radius: 20px;
+  border: 1px solid cornflowerblue;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.title {
+  color: rgb(25, 201, 232);
+  justify-content: center;
+  display: flex;
+}

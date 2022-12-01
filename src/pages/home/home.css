@@ -1,0 +1,43 @@
+table {
+  border: 2px solid forestgreen;
+  border-collapse: collapse;
+  width: 800px;
+  height: 20px;
+}
+
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.form {
+  font-family: cursive;
+}
+
+#fname,
+#name,
+#degree,
+#lang,
+#framework,
+#lname {
+  border-radius: 5px;
+  border-top-color: aquamarine;
+  border-bottom-color: cadetblue;
+  background: aliceblue;
+  padding: 5px 10px 5px 14px;
+  margin-left: 20px;
+}
+.formSubmit {
+  width: 108px;
+  display: flex;
+  justify-content: center;
+  margin-left: 292px;
+  border-color: aquamarine;
+  padding: 5px 70px 5px;
+  border-radius: 32px;
+}

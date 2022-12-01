@@ -1,0 +1,22 @@
+.lockLogo {
+  font-size: 60px;
+}
+.passContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: cursive;
+}
+.passBox {
+  display: flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: cursive;
+  background-color: azure;
+  border-radius: 10px;
+  padding: 33px 38px;
+  border: 1px solid cornflowerblue;
+}

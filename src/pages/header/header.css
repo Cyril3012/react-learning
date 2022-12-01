@@ -1,0 +1,16 @@
+.headerDash {
+  background: aliceblue;
+  display: flex;
+  padding: -4px;
+  border: 1px solid cadetblue;
+  margin-bottom: 42px;
+
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+#userLogged {
+  margin-right: 15px;
+  font-family: cursive;
+}
